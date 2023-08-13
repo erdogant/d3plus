@@ -1,0 +1,22 @@
+echo "Cleaning repo first.."
+rm -rf dist
+rm -rf build
+rm -rf d3plus.egg-info
+rm -rf __pycache__
+rm -rf .pytest_cache
+rm -rf d3plus/__pycache__
+rm -rf d3plus/.pylint.d
+rm -rf d3plus/tests/__pycache__
+rm -rf tests/__pycache__
+rm -rf d3plus/utils/__pycache__
+rm -rf .pylint.d
+rm -rf d3plus/data/*.zip
+rm -rf d3plus/data/*.csv
+rm -rf *.js
+rm -rf *.html
+rm -rf *.css
+rm -rf *.dot
+rm -rf *.png
+rm -rf .coverage*
+rm -rf .pkl
+rm -rf d3plus.egg-info

@@ -1,0 +1,2 @@
+include d3plus/data/*.zip
+include d3plus/data/*.txt
