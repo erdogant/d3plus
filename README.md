@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://d3blocks.github.io/d3blocks/pages/html/index.html">
-  <img src="https://github.com/d3plus/d3plus/blob/main/docs/figs/d3blocks_figure2.png" align="center" width="600" /> 
+  <img src="https://github.com/erdogant/d3plus/blob/main/docs/figs/d3blocks_figure2.png" align="center" width="600" /> 
   </a>
 </p>
 
@@ -23,12 +23,12 @@
 
 -------------------------------------------------------------------------
 
-D3Plus builts on the graphics of d3 javascript (d3js) to create the most visually attractive and useful charts with only a few lines of Python code!
-The [documentation pages](https://d3blocks.github.io/d3blocks/) contains detailed information about the working of the blocks with many examples. 
+D3Plus builds on the graphics of d3 javascript (d3js) to create the most visually attractive and useful charts with only a few lines of Python code!
+The [documentation pages](https://d3blocks.github.io/d3blocks/) contain detailed information about the working of the blocks with many examples. 
 
 <p align="center">
   <a href="https://d3blocks.github.io/d3blocks/pages/html/index.html">
-  <img src="https://github.com/d3plus/d3plus/blob/main/docs/figs/summary.png" width="600" />
+  <img src="https://github.com/erdogant/d3plus/blob/main/docs/figs/summary.png" width="600" />
   </a>
 </p>
 
