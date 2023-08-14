@@ -1,2 +1,0 @@
-https://app.codecov.io/gh/erdogant/d3plus/settings
-https://github.com/settings/installations/14504510

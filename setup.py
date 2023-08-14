@@ -13,23 +13,23 @@ else:
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     install_requires=['matplotlib','numpy','pandas','tqdm','requests','datazets'],
+     install_requires=['d3blocks'],
      python_requires='>=3',
      name='d3plus',
      version=new_version,
-     author="Erdogan Taskesen",
+     author="Erdogan Taskesen, Oliver Verver",
      author_email="erdogant@gmail.com",
-     description="Python package d3plus",
+     description="Python package d3blocks",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/erdogant/d3plus",
+     url="https://github.com/erdogant/d3blocks",
 	 download_url = 'https://github.com/erdogant/d3plus/archive/'+new_version+'.tar.gz',
      packages=setuptools.find_packages(), # Searches throughout all dirs for files to include
      include_package_data=True, # Must be true to include files depicted in MANIFEST.in
      license_files=["LICENSE"],
      classifiers=[
          "Programming Language :: Python :: 3",
-         "License :: OSI Approved :: MIT License",
+         "License :: OSI Approved",
          "Operating System :: OS Independent",
      ],
  )
