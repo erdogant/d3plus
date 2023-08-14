@@ -6,10 +6,16 @@ df = d3.import_example('energy')
 d3.heatmap(df)
 
 # %%
+from d3plus import d3plus
+d3 = d3plus()
+html = d3.particles('D3plus', )
+
+
+# %%
 
 # Initialize
-from d3blocks import D3Blocks
-d3 = D3Blocks()
+from d3plus import d3plus
+d3 = d3plus()
 #
 # Load example data
 df = d3.import_example('bigbang')
